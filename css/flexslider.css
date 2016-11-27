@@ -122,6 +122,7 @@ html[xmlns] .slides {display: block;}
 }
 .services a{
 	color:#666;
+	overflow: hidden;
 }
 .para:hover{
 	cursor:pointer;
@@ -132,9 +133,7 @@ html[xmlns] .slides {display: block;}
 .logo span{
 	color:#666;
 }
-.container h3{
-	color:#666;
-}
+
 .col-md-3 h3{
 	color:#29CB71;
 }

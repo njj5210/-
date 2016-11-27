@@ -1,6 +1,6 @@
 html, body{
     font-size: 100%;
-	background:	#f7fbfb;
+	background:	white;
 	font-family: '微软雅黑', sans-serif !important;
 }
 p{
@@ -12,6 +12,9 @@ ul,label{
 }
 body a:hover{
 	text-decoration:none;
+}
+img{
+	border:none;
 }
 /*-- header --*/
 .navbar-brand{
@@ -214,7 +217,7 @@ body a:hover{
 	padding:10em 0 5em;
 }
 .welcome h3,.services h3,.services1 h3,.advantages h3,.history-left h3,.history-right h3,.gallery h3,.contact h3,.newsletter-info h3{
-	color:#29CB71;
+	color:#666;
 	font-family: 'Comfortaa', cursive;
 	margin:0;
 	font-size:2em;
